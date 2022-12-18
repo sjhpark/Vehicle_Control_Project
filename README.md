@@ -1,6 +1,6 @@
 # Vehicle Control Project 
 ## (from 24-677 Modern Control Theory @ Carnegie Mellon University Fall 2022)
-Autonomous vehicle control through LQR and EKF SLAM (Tested in Webots)
+Autonomous vehicle control through LQR and EKF SLAM (tested in Webots)
 
 The controller python file has been uploaded to src.
 Other necessary files such as utility, base_controller, Webots World & Textures files, etc. have not been uploaded here since they are not owned by me.
