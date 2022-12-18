@@ -2,8 +2,17 @@
 ## (from 24-677 Modern Control Theory @ Carnegie Mellon University Fall 2022)
 Autonomous vehicle control through LQR and EKF SLAM (Tested in Webots)
 
+The controller python file has been uploaded to src.
+Other necessary files such as utility, base_controller, Webots World & Textures files, etc. have not been uploaded here since they are not owned by me.
+
+### Demonstartion - LQR + EFK for SLAM
 ![LQR_EKF_SLAM_Demo_GIF](https://user-images.githubusercontent.com/83327791/208284213-ab6225df-9500-4f38-b391-638bb344ca95.gif)
 
+### Evaluations
+![Results_1](https://user-images.githubusercontent.com/83327791/208284764-3f8b1e1a-da7e-42dc-bb5d-46721edea6de.png)
+![Results_2](https://user-images.githubusercontent.com/83327791/208284763-afdaa278-57f3-4712-93e8-0a102b4c4c3d.png)
+
+### Problem Approach
 ![24677_Project1024_1](https://user-images.githubusercontent.com/83327791/208284334-e48a5b9d-d050-480f-b506-1952c885bb0e.png)
 ![24677_Project1024_2](https://user-images.githubusercontent.com/83327791/208284380-c65b48a9-27be-4aa0-82bf-3a84c569a8dd.png)
 ![24677_Project1024_3](https://user-images.githubusercontent.com/83327791/208284381-1dd49dfd-5594-404f-b6be-c865a63db392.png)
