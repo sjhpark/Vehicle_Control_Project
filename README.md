@@ -5,7 +5,7 @@ Autonomous vehicle control through LQR and EKF SLAM (Tested in Webots)
 The controller python file has been uploaded to src.
 Other necessary files such as utility, base_controller, Webots World & Textures files, etc. have not been uploaded here since they are not owned by me.
 
-### Demonstartion - LQR + EFK for SLAM
+### Demonstartion - LQR + EKF for SLAM
 ![LQR_EKF_SLAM_Demo_GIF](https://user-images.githubusercontent.com/83327791/208284213-ab6225df-9500-4f38-b391-638bb344ca95.gif)
 
 ### Evaluations
